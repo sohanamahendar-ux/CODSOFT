@@ -345,4 +345,10 @@ understand, but powerful enough to never lose.
 - How the Minimax algorithm thinks ahead and evaluates moves
 - How to connect multiple functions together into one working program
 
----
+## Author
+Made by Kalal Sohana
+
+LinkedIn: []
+
+GitHub: [https://github.com/sohanakalal-ux/CODSOFT/tree/main/Task_Tic-Tac-Toe]
+
