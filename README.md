@@ -161,9 +161,6 @@ https://github.com/sohanakalal-ux/CODSOFT
 GitHub:
 https://github.com/sohanakalal-ux/CODSOFT
 
-LinkedIn:
-(Add your LinkedIn profile link here)
-
 
 ## Acknowledgement
 
