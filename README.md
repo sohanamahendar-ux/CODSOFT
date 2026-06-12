@@ -122,6 +122,8 @@ CODSOFT
         ├── recommendations.png
         └── final_output.png
 ```
+
+
 ## Technologies Used
 
 * Python 3
@@ -159,9 +161,12 @@ https://github.com/sohanakalal-ux/CODSOFT
 **Kalal Sohana**
 
 GitHub:
-https://github.com/sohanakalal-ux/CODSOFT
+https://github.com/sohanakalal-ux
+
+LinkedIn:
+(https://www.linkedin.com/in/sohana-kalal-619522385/)
 
 
 ## Acknowledgement
 
-I would like to thank @CodSoft for providing this internship opportunity and allowing me to work on practical Artificial Intelligence projects that enhanced my programming, problem-solving, and AI skills.
+I would like to thank **CodSoft** for providing this internship opportunity and allowing me to work on practical Artificial Intelligence projects that enhanced my programming, problem-solving, and AI skills.
